@@ -3,16 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@bit/gsinfo.react.button": "file:./components/button",
+    "@bit/gsinfo.react-ui.button": "1.0.3",
+    "@bit/gsinfo.react-ui.card": "1.0.1",
+    "@bit/gsinfo.react-ui.chip-list": "1.0.1",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-    "enzyme": "^3.11.0",
-    "enzyme-adapter-react-16": "^1.15.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
-    "@bit/gsinfo.react-ui.button": "1.0.2"
+    "react-scripts": "3.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -42,8 +41,7 @@
     "@storybook/addon-links": "^5.3.18",
     "@storybook/addons": "^5.3.18",
     "@storybook/preset-create-react-app": "^2.1.1",
-    "@storybook/react": "^5.3.18",
-    "react-test-renderer": "^16.13.1"
+    "@storybook/react": "^5.3.18"
   },
   "bit": {
     "env": {

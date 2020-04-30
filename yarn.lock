@@ -977,17 +977,33 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@bit/gsinfo.react-ui.button@1.0.2":
-  version "1.0.2"
-  resolved "https://node.bit.dev/gsinfo.react-ui.button/-/gsinfo.react-ui.button-1.0.2.tgz#086cb57b4af044ec10197b95997ccfa681b2bf1b"
-  integrity sha1-CGy1e0rwROwQGXuVmXzPpoGyvxs=
+"@bit/gsinfo.react-ui.button@1.0.3":
+  version "1.0.3"
+  resolved "https://node.bit.dev/gsinfo.react-ui.button/-/gsinfo.react-ui.button-1.0.3.tgz#73fe5066ea12803ae0dfa070a451aa1c60152853"
+  integrity sha1-c/5QZuoSgDrg36BwpFGqHGAVKFM=
   dependencies:
     classnames "2.2.6"
     prop-types "15.7.2"
     react "^16.13.1"
 
+"@bit/gsinfo.react-ui.card@1.0.1":
+  version "1.0.1"
+  resolved "https://node.bit.dev/gsinfo.react-ui.card/-/gsinfo.react-ui.card-1.0.1.tgz#ba8c2942e36ca5f119b1881dc7cf5d135ffd8e6b"
+  integrity sha1-uowpQuNspfEZsYgdx89dE1/9jms=
+  dependencies:
+    prop-types "15.7.2"
+    react "^16.13.1"
+
+"@bit/gsinfo.react-ui.chip-list@1.0.1":
+  version "1.0.1"
+  resolved "https://node.bit.dev/gsinfo.react-ui.chip-list/-/gsinfo.react-ui.chip-list-1.0.1.tgz#4395e9fb5334e0e0e8691159b3b52edc3f38f221"
+  integrity sha1-Q5Xp+1M04ODoaRFZs7Uu3D848iE=
+  dependencies:
+    prop-types "15.7.2"
+    react "^16.13.1"
+
 "@bit/gsinfo.react.button@file:./components/button":
-  version "1.0.2"
+  version "1.0.3"
   dependencies:
     classnames "2.2.6"
     prop-types "15.7.2"
